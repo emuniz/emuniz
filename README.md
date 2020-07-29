@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center">Eduardo Muniz</h1>
+<p align="center">Aprendiz de programação</p>
+<p align="center"><b>JavaScript | NodeJS | React | React Native</b></p>
+<p align="center">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 📌 Vivendo em <b>Salvador</b>, <b>Bahia</b>, <b>Brasil</b> &nbsp; 📚 Graduando em <b>Análise e Desenvolvimento de Sistemas</b>
+</p>
+<p align="center">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;🎯 Focado em <b>JavaScript</b>, <b>NodeJS</b>, <b>React</b> e <b>React Native</b>
+</p>
+
 
 <!--
 **emuniz/emuniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
