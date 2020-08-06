@@ -1,8 +1,8 @@
 <h1 align="center">Eduardo Muniz</h1>
 <p align="center">Aprendiz de programação</p>
-<p align="center"><b>JavaScript | NodeJS | React | React Native</b></p>
+<p align="center"><b>JavaScript | TypeScrip | NodeJS | React | React Native</b></p>
 <p align="center">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 📌 De <b>Salvador</b>, <b>Bahia</b>, <b>Brasil</b> &nbsp; 🎯 Focado em <b>JavaScript</b>, <b>NodeJS</b>, <b>React</b> e <b>React Native</b> 
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 📌 De <b>Salvador</b>, <b>Bahia</b>, <b>Brasil</b> &nbsp; 🎯 Focado em <b>JavaScript</b>, <b>TypeScript</b><b>NodeJS</b>, <b>React</b> e <b>React Native</b> 
 </p>
 <p align="center">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;📚 Graduando em <b>Análise e Desenvolvimento de Sistemas</b>
