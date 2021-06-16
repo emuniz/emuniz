@@ -1,5 +1,5 @@
 <h1 align="center">Eduardo Muniz</h1>
-<p align="center">Dev em produção</p>
+<p align="center">Desenvolvedor em evolução</p>
 <p align="center"><b>JavaScript | TypeScript | NodeJS | React | React Native</b></p>
 <p align="center">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 📌 De <b>Salvador</b>, <b>Bahia</b>, <b>Brasil</b> &nbsp; 🎯 Focado em <b>JavaScript</b>, <b>TypeScript</b>, <b>NodeJS</b>, <b>React</b> e <b>React Native</b> 
